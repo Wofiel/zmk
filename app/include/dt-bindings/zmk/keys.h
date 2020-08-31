@@ -89,6 +89,8 @@
 #define KMLT 0x55
 #define KMIN 0x56
 #define KPLS 0x57
+#define KENT 0x58
+#define KDOT 0x63
 
 #define GUI 0x65
 
